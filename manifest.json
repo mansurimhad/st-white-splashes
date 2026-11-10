@@ -1,0 +1,9 @@
+{
+  "display_name": "White Splashes",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "Custom",
+  "version": "1.0.0"
+}
